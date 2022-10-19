@@ -1,0 +1,17 @@
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PDF_PRINTER.exe
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PDF_PRINTER.deps.json
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PDF_PRINTER.runtimeconfig.json
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PDF_PRINTER.dll
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PDF_PRINTER.pdb
+C:\Users\lucas\RiderProjects\PDF_PRINTER\bin\Debug\net6.0\PdfPrintingNet.dll
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.csproj.AssemblyReference.cache
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.csproj.CopyComplete
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.dll
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\refint\PDF_PRINTER.dll
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.pdb
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\PDF_PRINTER.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\PDF_PRINTER\obj\Debug\net6.0\ref\PDF_PRINTER.dll

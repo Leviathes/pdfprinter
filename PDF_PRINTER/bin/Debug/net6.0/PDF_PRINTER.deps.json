@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PDF_PRINTER/1.0.0": {
+        "dependencies": {
+          "PdfPrintingNet": "5.0.0"
+        },
+        "runtime": {
+          "PDF_PRINTER.dll": {}
+        }
+      },
+      "PdfPrintingNet/5.0.0": {
+        "runtime": {
+          "lib/net20/PdfPrintingNet.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDF_PRINTER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PdfPrintingNet/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+AoBlrxZN5kCzmOGCmb58R0dZ6fh3kSTqZ3fMzc2U7Pk8/iA8XkrsehHpVuNrFdXDMpcqMmmc76Izuz8zjV/Sw==",
+      "path": "pdfprintingnet/5.0.0",
+      "hashPath": "pdfprintingnet.5.0.0.nupkg.sha512"
+    }
+  }
+}
